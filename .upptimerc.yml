@@ -4,7 +4,7 @@ repo: Up-Monitor # The name of this repository
 
 sites:
   - name: Seattle Node
-    check: "icmp-ping"
+    check: "tcp-ping"
     url: $SEATTLE_NODE
   - name: Navigation
     url: https://nav.explorercs.com
