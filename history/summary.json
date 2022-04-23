@@ -1,5 +1,25 @@
 [
   {
+    "name": "Seattle Node",
+    "url": "$SEATTLE_NODE",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "seattle-node",
+    "status": "down",
+    "uptime": "3.08%",
+    "uptimeDay": "3.08%",
+    "uptimeWeek": "3.08%",
+    "uptimeMonth": "3.08%",
+    "uptimeYear": "3.08%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-04-23": 1
+    }
+  },
+  {
     "name": "Navigation",
     "url": "https://nav.explorercs.com",
     "icon": "https://favicons.githubusercontent.com/nav.explorercs.com",
@@ -16,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 1
+      "2022-04-23": 212
     }
   },
   {
@@ -25,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/drive.explorercs.com",
     "slug": "drive-proxy",
     "status": "down",
-    "uptime": "1.54%",
-    "uptimeDay": "1.54%",
-    "uptimeWeek": "1.54%",
-    "uptimeMonth": "1.54%",
-    "uptimeYear": "1.54%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 1
+      "2022-04-23": 212
     }
   },
   {
@@ -45,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/cstevens.cc",
     "slug": "blog",
     "status": "down",
-    "uptime": "2.09%",
-    "uptimeDay": "2.09%",
-    "uptimeWeek": "2.09%",
-    "uptimeMonth": "2.09%",
-    "uptimeYear": "2.09%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 1
+      "2022-04-23": 212
     }
   },
   {
@@ -65,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/script.expcs.net",
     "slug": "script-cdn",
     "status": "down",
-    "uptime": "69.90%",
-    "uptimeDay": "69.90%",
-    "uptimeWeek": "69.90%",
-    "uptimeMonth": "69.90%",
-    "uptimeYear": "69.90%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 0
+      "2022-04-23": 212
     }
   },
   {
@@ -85,18 +105,18 @@
     "icon": "https://favicons.githubusercontent.com/gravatar.expcs.net",
     "slug": "gravatar-cdn",
     "status": "down",
-    "uptime": "3.42%",
-    "uptimeDay": "3.42%",
-    "uptimeWeek": "3.42%",
-    "uptimeMonth": "3.42%",
-    "uptimeYear": "3.42%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 0
+      "2022-04-23": 212
     }
   }
 ]
