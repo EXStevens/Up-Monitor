@@ -4,19 +4,19 @@
     "url": "$SEATTLE_NODE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "seattle-node",
-    "status": "down",
-    "uptime": "1.94%",
-    "uptimeDay": "1.94%",
-    "uptimeWeek": "1.94%",
-    "uptimeMonth": "1.94%",
-    "uptimeYear": "1.94%",
+    "status": "up",
+    "uptime": "1.22%",
+    "uptimeDay": "1.22%",
+    "uptimeWeek": "1.22%",
+    "uptimeMonth": "1.22%",
+    "uptimeYear": "1.22%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 1
+      "2022-04-23": 49
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 213
+      "2022-04-23": 261
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/drive.explorercs.com",
     "slug": "drive-proxy",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 212
+      "2022-04-23": 261
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/cstevens.cc",
     "slug": "blog",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 212
+      "2022-04-23": 261
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/script.expcs.net",
     "slug": "script-cdn",
     "status": "down",
-    "uptime": "0.23%",
-    "uptimeDay": "0.23%",
-    "uptimeWeek": "0.23%",
-    "uptimeMonth": "0.23%",
-    "uptimeYear": "0.23%",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 212
+      "2022-04-23": 260
     }
   },
   {
@@ -116,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 212
+      "2022-04-23": 260
     }
   }
 ]
