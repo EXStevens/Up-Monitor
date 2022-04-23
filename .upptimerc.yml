@@ -22,9 +22,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.explorercs.com
   baseUrl: /
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: ECS
-  introTitle: "**ECS Service Status**"
+  logoUrl: https://raw.githubusercontent.com/EXStevens/Up-Monitor/master/assets/cloud.svg
+  name: "**ECS Service Status**"
+  introTitle: The Status is shown below.
   introMessage:
   navbar:
   theme: dark
