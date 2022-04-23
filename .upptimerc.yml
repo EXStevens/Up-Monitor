@@ -23,7 +23,7 @@ status-website:
   cname: status.explorercs.com
   baseUrl: /
   logoUrl: https://raw.githubusercontent.com/EXStevens/Up-Monitor/master/assets/cloud.svg
-  name: "**ECS Service Status**"
+  name: **ECS Service Status**
   introTitle: The Status is shown below.
   introMessage:
   navbar:
