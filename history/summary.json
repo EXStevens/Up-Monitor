@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "seattle-node",
     "status": "up",
-    "uptime": "93.45%",
-    "uptimeDay": "93.45%",
-    "uptimeWeek": "93.45%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "93.45%",
+    "uptime": "93.52%",
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "93.52%",
+    "uptimeMonth": "93.52%",
+    "uptimeYear": "93.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-24": 79,
+      "2022-04-24": 86,
       "2022-04-23": 876
     }
   },
@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-24": 79,
+      "2022-04-24": 86,
       "2022-04-23": 876
     }
   },
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-24": 79,
+      "2022-04-24": 86,
       "2022-04-23": 876
     }
   },
@@ -99,7 +99,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-24": 79,
+      "2022-04-24": 86,
       "2022-04-23": 875
     }
   },
@@ -120,7 +120,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-24": 79,
+      "2022-04-24": 86,
       "2022-04-23": 875
     }
   }
