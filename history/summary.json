@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "seattle-node",
     "status": "up",
-    "uptime": "30.95%",
-    "uptimeDay": "30.95%",
-    "uptimeWeek": "30.95%",
-    "uptimeMonth": "30.95%",
-    "uptimeYear": "30.95%",
+    "uptime": "93.31%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "93.31%",
+    "uptimeMonth": "93.31%",
+    "uptimeYear": "93.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 282
+      "2022-04-24": 62,
+      "2022-04-23": 876
     }
   },
   {
@@ -56,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 282
+      "2022-04-24": 62,
+      "2022-04-23": 876
     }
   },
   {
@@ -76,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 282
+      "2022-04-24": 62,
+      "2022-04-23": 876
     }
   },
   {
@@ -85,18 +88,19 @@
     "icon": "https://favicons.githubusercontent.com/script.expcs.net",
     "slug": "script-cdn",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 282
+      "2022-04-24": 62,
+      "2022-04-23": 875
     }
   },
   {
@@ -105,18 +109,19 @@
     "icon": "https://favicons.githubusercontent.com/gravatar.expcs.net",
     "slug": "gravatar-cdn",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 282
+      "2022-04-24": 62,
+      "2022-04-23": 875
     }
   }
 ]
