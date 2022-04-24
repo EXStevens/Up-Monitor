@@ -24,7 +24,7 @@ status-website:
   baseUrl: /
   logoUrl: https://raw.githubusercontent.com/EXStevens/Up-Monitor/master/assets/cloud.svg
   name: ECS Service Status
-  introTitle: "The Status is Shown Below:"
+  introTitle: The Status is Shown Below
   introMessage:
   navbar:
   theme: night
