@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "seattle-node",
     "status": "up",
-    "uptime": "97.77%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.77%",
-    "uptimeMonth": "97.77%",
-    "uptimeYear": "97.77%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-25": 80,
+      "2022-04-26": 98,
+      "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 876
     }
@@ -58,7 +59,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-25": 80,
+      "2022-04-26": 98,
+      "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 876
     }
@@ -80,7 +82,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-25": 80,
+      "2022-04-26": 98,
+      "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 876
     }
@@ -91,18 +94,19 @@
     "icon": "https://favicons.githubusercontent.com/script.expcs.net",
     "slug": "script-cdn",
     "status": "down",
-    "uptime": "0.02%",
+    "uptime": "0.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-25": 80,
+      "2022-04-26": 98,
+      "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 875
     }
@@ -124,7 +128,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-25": 80,
+      "2022-04-26": 98,
+      "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 875
     }
