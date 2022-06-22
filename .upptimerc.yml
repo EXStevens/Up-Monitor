@@ -6,16 +6,16 @@ sites:
   - name: Seattle Node
     check: "tcp-ping"
     url: $SEATTLE_NODE
-  - name: Navigation
-    url: https://nav.explorercs.com
+#  - name: Navigations
+#    url: https://nav.explorercs.com
   - name: Drive Proxy
     url: https://drive.explorercs.com
   - name: Blog
     url: https://cstevens.cc
-  - name: Script CDN
-    url: https://script.expcs.net
+#  - name: Script CDN
+#    url: https://script.expcs.net
   - name: Gravatar CDN
-    url: https://gravatar.expcs.net
+    url: https://avatars.expcs.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
